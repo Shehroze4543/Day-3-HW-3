@@ -1,0 +1,75 @@
+body{
+  margin-left: 30%;
+  margin-top: 5%;
+}
+.container{
+  background-color: yellow;
+    width: 700px;
+    height: 800px;
+    border: 7px dashed red;
+    padding-top: 0px;
+}
+
+hr{
+  margin-left: 20%;
+  margin-right: 20%;
+  border: 5px solid black;
+}
+.upper-hr{
+  margin-bottom: 25px;
+  margin-top: 20px;
+}
+.bottom-hr{
+  margin-top: -170px;
+}
+.header{
+  font-family: 'Smokum', cursive;
+  text-align: center;
+  font-weight: 700;
+  font-size: 150px;
+  margin-top: 0px;
+  
+}
+.header-txt{
+  margin-top: -40px;
+
+}
+
+
+.sub-txt{
+  text-align: center;
+  font-family: 'Anton', sans-serif;
+  font-weight: 400px;
+  font-size: 300%;
+  margin-top: -50px;
+}
+
+.pic-div{
+  display: flex;
+justify-content: center;
+margin-top: -50px;
+}
+
+.mike-pic{
+  align-items: center;
+}
+
+.lower-container{
+  text-align: center;
+}
+
+.description-div{
+  height: 150px;
+  width: 480px;
+  font-size: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: sans-serif;
+  font-family: 'Signika', sans-serif;
+}
+
+.reward-div{
+  font-family: 'Anton', sans-serif;
+  font-size: 40px;
+  margin-top: -25px;
+}
